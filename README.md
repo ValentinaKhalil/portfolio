@@ -22,11 +22,11 @@ MySQL, PostgreSQL, SQL Server
 
 ## Projects / Open-Source
 
-### Data Science Salary Explorer: Unveiling Compensation Trends 
+# Data Science Salary Explorer: Unveiling Compensation Trends 
 ## Tools Used (Python, Tableau)
 
 
-# Introduction:
+### Introduction:
 
 Welcome to the Data Science Salary Explorer! This interactive dashboard offers a comprehensive exploration of the trends and insights in data science job salaries over time, derived from a dataset obtained from Kaggle. Leveraging the power of Python for data preprocessing and Tableau for visualization, I've transformed raw data into actionable insights that shed light on the evolving landscape of data science compensation.
 
@@ -60,13 +60,13 @@ The Data Science Salary Explorer serves as a valuable resource for professionals
 Explore the dashboard today and unlock the insights that will propel your career forward!
 
 
-### Nike Sales Analysis: SQL and Tableau Project
+# Nike Sales Analysis: SQL and Tableau Project
 
-# Introduction:
+### Introduction:
 
 Welcome to the Nike Sales Analysis project, where I combined SQL querying with Tableau visualization to gain insights into Nike's sales data. Leveraging PostgreSQL as the database backend, I performed data extraction and analysis through SQL queries, followed by visualization and dashboard creation using Tableau. Let's delve into the details of the analysis and the insights uncovered along the way.
 
-# SQL Analysis:
+### SQL Analysis:
 
 Queries 1-7:
 
@@ -94,9 +94,9 @@ The Nike Sales Analysis project demonstrates my proficiency in leveraging SQL an
 
 Explore the Tableau dashboard to uncover the nuances of Nike's sales data and gain valuable insights into the factors driving success in the competitive retail industry.
 
-### Python Data Story - World Happiness Report
+# Python Data Story - World Happiness Report
 
-## Introduction:
+### Introduction:
 
 Welcome to my Python Data Story project, where I explore the World Happiness Report dataset sourced from Kaggle. In this project, I delve into the fascinating world of global happiness and examine the relationships among various variables to uncover insights into what factors contribute to overall happiness.
 
@@ -124,9 +124,9 @@ Explore the visualizations and insights in this project to gain a new perspectiv
 ![Visual]( stuff/pyhton data story .png)
 [Kaggle_Notebook_Link]()
 
-### Python Time Series Analysis - Airline Passengers Dataset
+# Python Time Series Analysis - Airline Passengers Dataset
 
-Introduction:
+### Introduction:
 
 Welcome to my Python time series analysis project, where I've explored the Airline Passengers dataset. This dataset, sourced from an open repository on GitHub, contains monthly airline passenger numbers from 1949 to 1960. Leveraging Python for data exploration and Plotly for interactive graphing, I've conducted a comprehensive analysis of the dataset to uncover insights into passenger trends over time.
 
@@ -160,9 +160,9 @@ Explore the interactive graphs and insights in this project to gain a deeper und
 [Kaggle_Notebook_Link]()
 
 
-### Netflix Dashboard: Exploring Runtimes and IMDb Scores
+# Netflix Dashboard: Exploring Runtimes and IMDb Scores
 
-Introduction:
+### Introduction:
 
 Welcome to the Netflix Dashboard! In this Tableau dashboard, I've analyzed Netflix movies and TV shows to uncover insights into their runtimes and IMDb scores. Leveraging Tableau's powerful visualization capabilities, I've created an interactive dashboard that allows users to explore the relationships between runtime durations, IMDb scores, and other relevant variables.
 ![Dashboard]( stuff/netflixx analysis.png)
