@@ -165,7 +165,8 @@ Explore the interactive graphs and insights in this project to gain a deeper und
 ### Introduction:
 
 Welcome to the Netflix Dashboard! In this Tableau dashboard, I've analyzed Netflix movies and TV shows to uncover insights into their runtimes and IMDb scores. Leveraging Tableau's powerful visualization capabilities, I've created an interactive dashboard that allows users to explore the relationships between runtime durations, IMDb scores, and other relevant variables.
-![Dashboard]( stuff/netflixx analysis.png)
+
+![Dashboard](stuff/netflixx analysis.png)
 [Tableau_Public](https://public.tableau.com/views/NetflixAnalysisDashboard_17136962822250/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
 
