@@ -32,7 +32,7 @@ Welcome to the Data Science Salary Explorer! This interactive dashboard offers a
 
 [VizLink](https://public.tableau.com/views/DataScienceSalaryTrendsDashboard_17137992923300/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
-![DataScience_Salaries_Dashboard]( stuff/jobb ds.png)
+![DataScience_Salaries_Dashboard](stuff/jobbds.png)
 
 
 Key Features:
@@ -86,7 +86,7 @@ After extracting and analyzing the data using SQL, I imported the results into T
 
 [VizLink](https://public.tableau.com/views/NikeDashboard_17137990242930/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
-![Nike_Dashboard](stuff/nike sql.png)
+![Nike_Dashboard](stuff/nikesql.png)
 
 Conclusion:
 
@@ -121,7 +121,7 @@ The Python Data Story - World Happiness Report project not only showcases my dat
 Explore the visualizations and insights in this project to gain a new perspective on the factors that drive happiness around the world.
 
 
-![Visual]( stuff/pyhton data story .png)
+![Visual](stuff/pyhtondatastory.png)
 [Kaggle_Notebook_Link]()
 
 # Python Time Series Analysis - Airline Passengers Dataset
@@ -130,7 +130,7 @@ Explore the visualizations and insights in this project to gain a new perspectiv
 
 Welcome to my Python time series analysis project, where I've explored the Airline Passengers dataset. This dataset, sourced from an open repository on GitHub, contains monthly airline passenger numbers from 1949 to 1960. Leveraging Python for data exploration and Plotly for interactive graphing, I've conducted a comprehensive analysis of the dataset to uncover insights into passenger trends over time.
 
-![Visual]( stuff/passengers .png)
+![Visual](stuff/passengers.png)
 
 
 Data Exploration:
