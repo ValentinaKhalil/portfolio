@@ -190,3 +190,22 @@ Explore the Netflix Dashboard today to uncover insights that can inform your vie
 [SQL_Pdf](Nike_.pdf)
 
 
+# RevRoll Data Analysis and Optimization
+## SQL Project
+In my RevRoll project, I tackled various aspects of data analysis and optimization within a hypothetical company specializing in parts installation and sales. Here's a brief overview of the tasks I accomplished:
+
+Average Part Price and Most Expensive Part: Determined the average price of parts and identified the most expensive part in the inventory.
+Customer Order Analysis: Calculated the total number of parts ordered by each customer.
+Installation Time Analysis: Found the average time required to install a specific part.
+Top Installers by Average Installation Time: Identified the top 5 installers with the highest average installation times.
+Derby Participation Analysis: Determined which installers participated in at least one derby event.
+Most Expensive Part in Each Order: Reported the most expensive part in each order, considering only installed orders.
+Consecutive Installation Analysis: Identified installers who completed installations for at least four consecutive days.
+Year-End Bonus Calculation: Calculated performance-based year-end bonuses for installers based on the total value of parts installed.
+Install Derby Scoring: Assigned scores to installers based on their performance in the Install Derby competition.
+Fastest Install Time Analysis: Found the fastest installation time and corresponding derby ID for each installer.
+These tasks showcase my proficiency in SQL querying, data manipulation, and analytical thinking. They demonstrate my ability to derive insights from complex datasets and provide actionable recommendations for business improvement.
+
+[SQL_Pdf](RevRoll.pdf)
+
+
