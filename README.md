@@ -168,7 +168,7 @@ Welcome to the Netflix Dashboard! In this Tableau dashboard, I've analyzed Netfl
 
 ![Dashboard](stuff/netflixx.png)
 [Tableau_Public](https://public.tableau.com/views/NetflixAnalysisDashboard_17136962822250/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
-[SQL_Pdf](Nike_.pdf)
+
 
 
 Key Features:
@@ -187,6 +187,6 @@ The Netflix Dashboard offers a comprehensive exploration of Netflix content, foc
 
 Explore the Netflix Dashboard today to uncover insights that can inform your viewing choices and deepen your understanding of Netflix content trends!
 
-
+[SQL_Pdf](Nike_.pdf)
 
 
