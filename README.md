@@ -78,7 +78,7 @@ Highest Sales per Distribution Center: Identified distribution centers with the 
 Total Amount of Orders that have been Completed: Calculated the total number of completed orders to measure overall sales performance.
 Top 10 Products with Highest Retail Price and Cost: Ranked the top products based on their retail price and cost to highlight high-value items in Nike's inventory.
 
-[PDF_Link]()
+[PDF_Link](Nike_.pdf)
 
 
 Tableau Visualization:
@@ -122,7 +122,7 @@ Explore the visualizations and insights in this project to gain a new perspectiv
 
 
 ![Visual](stuff/pyhtondatastory.png)
-[Kaggle_Notebook_Link]()
+[Kaggle_Notebook_Link](https://www.kaggle.com/code/valentinakhalil/world-happiness-eda)
 
 # Python Time Series Analysis - Airline Passengers Dataset
 
@@ -157,7 +157,7 @@ The Python Time Series Analysis - Airline Passengers Dataset project demonstrate
 
 Explore the interactive graphs and insights in this project to gain a deeper understanding of the dynamics of airline passenger numbers over time.
 
-[Kaggle_Notebook_Link]()
+[Kaggle_Notebook_Link](https://www.kaggle.com/code/valentinakhalil/airlines-passenger-time-series-analysis)
 
 
 # Netflix Dashboard: Exploring Runtimes and IMDb Scores
